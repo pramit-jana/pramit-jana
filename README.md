@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pramit</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate web developer from India</h3>
 
 <img src="https://thumbs.gfycat.com/ExemplaryFairFeline-max-1mb.gif" 
 img align="right" alt="Coding" width="400">
